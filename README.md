@@ -1,5 +1,7 @@
 ## Filósofos e Conceitos
 
+Documento criado para tornar públicas e de fácil acesso teorias de filósofos, conceitos, documentos e etc. para utilização como repertório sociocultural.
+
 ##### Referências
 História, Tecnologia, Ética, Política, Educação, Cultura, Sociedade, Filosofia, Literatura, Igualdade de Gênero, Saúde Mental e Economia
 
